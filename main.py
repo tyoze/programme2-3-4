@@ -76,3 +76,7 @@ PostitieLIST = [1,2,15,50,100]
 
 #testcommand
 print(Valversnelling(TijdLIST, PostitieLIST))
+
+
+
+#testje
